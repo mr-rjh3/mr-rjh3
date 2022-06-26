@@ -11,8 +11,8 @@
 <img  src="https://img.shields.io/static/v1?label=Language&message=Python&color=ff69b4&logo=python&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Language&message=Java&color=ff69b4&logo=java&logoColor=white"/>  <br>
 <img  src="https://img.shields.io/static/v1?label=ML&message=scikit-learn&color=blue&logo=scikit-learn&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=ML&message=NLTK&color=blue&logo=NLTK&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=Keras&color=blue&logo=Keras&logoColor=white"/>
+<img  src="https://img.shields.io/static/v1?label=ML&message=NLTK&color=blue&logo=NLTK&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=NumPy&color=blue&logo=NumPy&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=Pandas&color=blue&logo=Pandas&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=Plotly&color=blue&logo=Plotly&logoColor=white"/><br>
