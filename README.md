@@ -10,7 +10,9 @@
 
 <img  src="https://img.shields.io/static/v1?label=Language&message=C Varients&color=ff69b4&logo=c&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Language&message=Python&color=ff69b4&logo=python&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=Language&message=Java&color=ff69b4&logo=java&logoColor=white"/>
+<img  src="https://img.shields.io/static/v1?label=Language&message=Java&color=ff69b4&logo=java&logoColor=white"/><br>
+<img  src="https://img.shields.io/static/v1?label=Language&message=HTML&color=ff69b4&logo=html5&logoColor=white"/>
+<img  src="https://img.shields.io/static/v1?label=Language&message=CSS&color=ff69b4&logo=css3&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Language&message=Javascript&color=ff69b4&logo=javascript&logoColor=white"/><br>
 
 <img  src="https://img.shields.io/static/v1?label=Database&message=MySQL&color=green&logo=mysql&logoColor=white"/>
