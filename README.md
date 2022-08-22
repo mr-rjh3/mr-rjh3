@@ -7,19 +7,26 @@
 <img  src="https://img.shields.io/static/v1?label=OS&message=Windows&color=30bad9&logo=Windows&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Enviroment&message=WSL&color=30bad9&logo=Linux&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=30bad9&logo=Visual-Studio-Code&logoColor=white"/>  <br>
+
 <img  src="https://img.shields.io/static/v1?label=Language&message=C Varients&color=ff69b4&logo=c&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Language&message=Python&color=ff69b4&logo=python&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=Language&message=Java&color=ff69b4&logo=java&logoColor=white"/>  <br>
+<img  src="https://img.shields.io/static/v1?label=Language&message=Java&color=ff69b4&logo=java&logoColor=white"/>
+<img  src="https://img.shields.io/static/v1?label=Language&message=Javascript&color=ff69b4&logo=javascript&logoColor=white"/><br>
+
+<img  src="https://img.shields.io/static/v1?label=Database&message=MySQL&color=green&logo=mysql&logoColor=white"/>
+<img  src="https://img.shields.io/static/v1?label=Backend&message=Node.js&color=green&logo=node.js&logoColor=white"/>
+<img  src="https://img.shields.io/static/v1?label=Frontend&message=Vite&color=green&logo=vite&logoColor=white"/>
+<img  src="https://img.shields.io/static/v1?label=Web Dev&message=THREE.js&color=green&logo=three.js&logoColor=white"/><br>
+
 <img  src="https://img.shields.io/static/v1?label=ML&message=scikit-learn&color=blue&logo=scikit-learn&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=Keras&color=blue&logo=Keras&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=NLTK&color=blue&logo=NLTK&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=NumPy&color=blue&logo=NumPy&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=Pandas&color=blue&logo=Pandas&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=Plotly&color=blue&logo=Plotly&logoColor=white"/><br>
-<img  src="https://img.shields.io/static/v1?label=Database&message=MySQL&color=green&logo=mysql&logoColor=white"/>
+
 <img  src="https://img.shields.io/static/v1?label=&message=Arduino&color=red&logo=arduino&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=&message=RaspberryPi&color=red&logo=raspberrypi&logoColor=white"/>
-<br>
+<img  src="https://img.shields.io/static/v1?label=&message=RaspberryPi&color=red&logo=raspberrypi&logoColor=white"/><br>
 
   
 
