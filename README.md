@@ -3,10 +3,12 @@
 <h3 align="center">An aspiring FullStack developer with expertise in backend development using Python and C. I love UI and UX and am currently learning how to develop frontend software. Studying Computer Science and User Experience Design at Wilfrid Laurier University.</h3>  
 
 ## 🪐 My Website 
+<h3 align="center">
 <a href = "https://mr-rjh3.github.io/Portfolio-Website/">https://mr-rjh3.github.io/Portfolio-Website/</a>
+</h3>
 
 ## 💻 Tech Stack
-<p  align="center">
+<p align="center">
 <img  src="https://img.shields.io/static/v1?label=OS&message=Windows&color=30bad9&logo=Windows&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Enviroment&message=WSL&color=30bad9&logo=Linux&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=30bad9&logo=Visual-Studio-Code&logoColor=white"/>  <br>
@@ -32,11 +34,25 @@
 
 <img  src="https://img.shields.io/static/v1?label=&message=Arduino&color=red&logo=arduino&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=&message=RaspberryPi&color=red&logo=raspberrypi&logoColor=white"/><br>
-
+</p>
   
 
 ## 📊 GitHub Stats:
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=mr-rjh3&theme=default&hide_border=false&include_all_commits=false&count_private=true">   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mr-rjh3&theme=default&hide_border=false">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rjh3&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+<p align="center">
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=mr-rjh3&theme=default&hide_border=false&include_all_commits=false&count_private=true"><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mr-rjh3&theme=default&hide_border=false">
+</p>
 
+<p align="center">
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rjh3&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width = 400>
+</p>
+
+<h1 align="center">Thanks for checking out my profile! </h1>  
+<h3 align="center">Feel free to check out any of my repositories down below! <br><br>
+There are a couple repositories I have been involved in that I am unable to display on my GitHub profile. If you would like to view those repositories, check out my list: "<a href = "https://github.com/stars/mr-rjh3/lists/other-repos">Other Repos</a>"!</h3>
+
+
+<p align="center">
+  <img href="https://imgur.com/0aaYn6t"><img src="https://i.imgur.com/0aaYn6t.gif" width = 100>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img href="https://imgur.com/nYYZQG7"><img src="https://i.imgur.com/nYYZQG7.gif" width = 100>
 </p>
