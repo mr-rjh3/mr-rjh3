@@ -52,6 +52,6 @@
 There are a couple repositories I have been involved in that I am unable to display on my GitHub profile. If you would like to view those repositories, check out my list: "<a href = "https://github.com/stars/mr-rjh3/lists/other-repos">Other Repos</a>"!</h3>
 
 
-<img src="https://i.imgur.com/e0y45wC.gif" width = 100 align = "left">
-<img src="https://i.imgur.com/qT3jkxm.gif" width = 100 align = "right">
+<img align = "left" src="https://i.imgur.com/e0y45wC.gif" width = 100>
+<img align = "right" src="https://i.imgur.com/qT3jkxm.gif" width = 100>
 
