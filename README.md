@@ -39,11 +39,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=mr-rjh3&theme=default&hide_border=false&include_all_commits=false&count_private=true"width = 400><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mr-rjh3&theme=default&hide_border=false"width = 400>
-</p>
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true">
 
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mr-rjh3&theme=default&hide_border=true&background=00000000&currStreakNum=3498db&sideNums=3498db&sideLabels=3498db&dates=2e85bf&stroke=6faed9">
+</p>
 <p align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rjh3&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width = 400>
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true&layout=compact">
 </p>
 
 <h1 align="center">Thanks for checking out my profile! </h1>  
@@ -52,7 +53,7 @@ There are a couple repositories I have been involved in that I am unable to disp
 
 
 <p align="center">
-  <img href="https://imgur.com/0aaYn6t"><img src="https://i.imgur.com/0aaYn6t.gif" width = 100>
+<img src="https://i.imgur.com/e0y45wC.gif" width = 100>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img href="https://imgur.com/nYYZQG7"><img src="https://i.imgur.com/nYYZQG7.gif" width = 100>
+<img src="https://i.imgur.com/qT3jkxm.gif" width = 100>
 </p>
