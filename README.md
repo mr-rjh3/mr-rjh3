@@ -22,15 +22,11 @@
 
 <img  src="https://img.shields.io/static/v1?label=Database&message=MySQL&color=green&logo=mysql&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Backend&message=Node.js&color=green&logo=node.js&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=Frontend&message=Vite&color=green&logo=vite&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=Web Dev&message=THREE.js&color=green&logo=three.js&logoColor=white"/><br>
+<img  src="https://img.shields.io/static/v1?label=Frontend&message=React&color=green&logo=react&logoColor=white"/><br>
 
 <img  src="https://img.shields.io/static/v1?label=ML&message=scikit-learn&color=blue&logo=scikit-learn&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=ML&message=Keras&color=blue&logo=Keras&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=ML&message=NLTK&color=blue&logo=NLTK&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=ML&message=NumPy&color=blue&logo=NumPy&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=ML&message=Pandas&color=blue&logo=Pandas&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=ML&message=Plotly&color=blue&logo=Plotly&logoColor=white"/><br>
+<img  src="https://img.shields.io/static/v1?label=ML&message=NLTK&color=blue&logo=NLTK&logoColor=white"/><br>
 
 <img  src="https://img.shields.io/static/v1?label=&message=Arduino&color=red&logo=arduino&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=&message=RaspberryPi&color=red&logo=raspberrypi&logoColor=white"/><br>
