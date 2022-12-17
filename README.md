@@ -21,7 +21,7 @@
 <img  src="https://img.shields.io/static/v1?label=Language&message=Javascript&color=ff69b4&logo=javascript&logoColor=white"/><br>
 
 <img  src="https://img.shields.io/static/v1?label=Database&message=MySQL&color=green&logo=mysql&logoColor=white"/>
-<img  src="https://img.shields.io/static/v1?label=Backend&message=Node.js&color=green&logo=node.js&logoColor=white"/>
+<img  src="https://img.shields.io/static/v1?label=Environment&message=Node.js&color=green&logo=node.js&logoColor=white"/>
 <img  src="https://img.shields.io/static/v1?label=Frontend&message=React&color=green&logo=react&logoColor=white"/><br>
 
 <img  src="https://img.shields.io/static/v1?label=ML&message=scikit-learn&color=blue&logo=scikit-learn&logoColor=white"/>
