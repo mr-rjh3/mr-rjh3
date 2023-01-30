@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm Riley Huston! <img src ="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width = 50> </h1>  
 <h3 align="center">An aspiring Full Stack developer with expertise in backend development using Python and C. I love UI and UX and am currently learning how to develop frontend software. Studying Computer Science and User Experience Design at Wilfrid Laurier University.</h3>  
 
-## 🪐 My Website 
+## 🌐 My Website 
 <h3 align="center">
-<a href = "https://mr-rjh3.github.io/Portfolio-Website/">https://mr-rjh3.github.io/Portfolio-Website/</a>
+<a href = "https://mr-rjh3.github.io/Portfolio-Website-mk2/">https://mr-rjh3.github.io/Portfolio-Website-mk2/</a>
 </h3>
 
 ## 💻 Tech Stack
