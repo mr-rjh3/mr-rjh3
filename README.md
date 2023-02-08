@@ -4,7 +4,7 @@
 
 ## 🌐 My Website 
 <h3 align="center">
-<a href = "https://mr-rjh3.github.io/Portfolio-Website-mk2/">https://mr-rjh3.github.io/Portfolio-Website-mk2/</a>
+<a href = "https://rileyhuston.dev">https://rileyhuston.dev</a>
 </h3>
 
 ## 💻 Tech Stack
