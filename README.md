@@ -4,7 +4,7 @@
   🖥️ Full Stack developer with expertise in backend development using Python and C. 
   <br>
   <br>
-  ✍️ Currently learning new frontend frameworks such as Vue.js!
+  ✍️ Currently learning frontend frameworks such as Vue.js!
   <br>
   <br>
   🎓 Computer Science Graduate from Wilfrid Laurier University with a minor in User Experience Design.
@@ -83,22 +83,22 @@
 <h3 align="center">Feel free to check out any of my repositories down below! <br><br>
 
 <div width="100%" align="center">
-  <a href="https://github.com/mr-rjh3/python-search-engine" title="python-search-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=python-search-engine&theme=transparent">
+  <a href="https://github.com/mr-rjh3/Portfolio-Website-mk2" title="Portfolio-Website-mk2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=Portfolio-Website-mk2&theme=transparent">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mr-rjh3/python-page-rank" title="python-page-rank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=python-page-rank&theme=transparent">
+  <a href="https://github.com/mr-rjh3/sorting-visualizer" title="sorting-visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=sorting-visualizer&theme=transparent">
   </a>
 </div>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/mr-rjh3/Noisy-Channel-Model" title="Noisy-Channel-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=Noisy-Channel-Model&theme=transparent">
+  <a href="https://github.com/mr-rjh3/N-Queens-Solver" title="N-Queens-Solver">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=N-Queens-Solver&theme=transparent">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mr-rjh3/webcrawlers" title="webcrawlers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=webcrawlers&theme=transparent">
+  <a href="https://github.com/mr-rjh3/python-search-engine" title="python-search-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=python-search-engine&theme=transparent">
   </a>
 </div>
 <br>
