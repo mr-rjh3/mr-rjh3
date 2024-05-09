@@ -4,7 +4,7 @@
   🖥️ Full Stack developer with expertise in backend development using Python and C. 
   <br>
   <br>
-  ✍️ Currently learning frontend frameworks such as Vue.js!
+  ✍️ Currently studying at Fanshawe College for the Software and Systems Information Testing Certificate!
   <br>
   <br>
   🎓 Computer Science Graduate from Wilfrid Laurier University with a minor in User Experience Design.
