@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true&show_icons=true&hide=issues,contribs&show=prs_merged&rank_icon=github"  width=47.9%>
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true&show_icons=true&hide=issues,contribs&show=prs_merged&rank_icon=github">
 <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true&layout=compact&hide=Jupyter%20Notebook,MakeFile">
 </p>
 
