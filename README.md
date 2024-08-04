@@ -21,12 +21,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true" width = 400>
-
-<img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mr-rjh3&theme=default&hide_border=true&background=00000000&currStreakNum=3498db&sideNums=3498db&sideLabels=3498db&dates=2e85bf&stroke=6faed9" width = 400>
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true&show_icons=true&hide=issues,contribs&show=prs_merged&rank_icon=github"  width=47.9%>
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true&layout=compact&hide=Jupyter%20Notebook,MakeFile">
 </p>
+
 <p align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rjh3&theme=default&hide_border=true&bg_color=00000000&text_color=3498db&include_all_commits=false&count_private=true&layout=compact">
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mr-rjh3&theme=default&hide_border=true&background=00000000&currStreakNum=3498db&sideNums=3498db&sideLabels=3498db&dates=2e85bf&stroke=6faed9">
 </p>
 
 <h1 align="center">Thanks for checking out my profile! </h1>  
