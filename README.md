@@ -32,39 +32,7 @@
 <h1 align="center">Thanks for checking out my profile! </h1>  
 <h3 align="center">Feel free to check out my repositories down below! <br><br>
 
-<div width="100%" align="center">
-  <a href="https://github.com/mr-rjh3/Portfolio-Website-mk2" title="Portfolio-Website-mk2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=Portfolio-Website-mk2&theme=transparent">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mr-rjh3/sorting-visualizer" title="sorting-visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=sorting-visualizer&theme=transparent">
-  </a>
-</div>
-<br>
-<div width="100%" align="center">
-  <a href="https://github.com/mr-rjh3/N-Queens-Solver" title="N-Queens-Solver">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=N-Queens-Solver&theme=transparent">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mr-rjh3/python-search-engine" title="python-search-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=python-search-engine&theme=transparent">
-  </a>
-</div>
-<br>
-<div width="100%" align="center">
-  <a href="https://github.com/Shailosingh/Huffman-Tree-School-Project" title="Huffman-Tree-School-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shailosingh&repo=Huffman-Tree-School-Project&theme=transparent">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mr-rjh3/Contiguous-Memory-Allocation-Simulation" title="Contiguous-Memory-Allocation-Simulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-rjh3&repo=Contiguous-Memory-Allocation-Simulation&theme=transparent">
-  </a>
-</div>
-<br>
-<h4 align="center">
-  <a href="https://github.com/mr-rjh3?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+
 
 <img align = "left" src="https://i.imgur.com/e0y45wC.gif" width = 100>
 <img align = "right" src="https://i.imgur.com/qT3jkxm.gif" width = 100>
