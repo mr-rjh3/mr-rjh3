@@ -7,7 +7,7 @@
 	👾 Software Tester with experience in manual and automated testing using Selenium, JMeter, and Postman.
 	<br>
 	<br>
-	✍️ Currently learning Software and Systems Testing at Fanshawe College!
+	✍️ Currently building a stronger foundation in full stack development!
 	<br>
 	<br>
 	🎓 Computer Science Graduate from Wilfrid Laurier University with a minor in User Experience Design.
