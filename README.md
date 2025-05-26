@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Riley Huston! <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjc2NGYyOG91czQ4a2V3OGlqMzk0MHR3bHdyanBmbzl3MDdzaGVlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBDFuIG38TZM2w3R5p/giphy.webp" width = 60 alt="Cool green backflipping guy"> </h1>  
 <p>
-	🖥️ Software developer with expertise in backend development using Python and C.
+	🖥️ Software developer with expertise in backend development using Python, Java, and C.
 	<br>
 	<br>
 	👾 Software Tester with experience in manual and automated testing using Selenium, JMeter, and Postman.
